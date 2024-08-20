@@ -31,18 +31,13 @@ A simple and responsive note-taking application built with the MERN stack. Users
 #### 2. Set Up the Backend
       Navigate to the backend directory:
   
-      ```bash
-      cd backend
-      Install backend dependencies:
+       -cd backend
+       -Install backend dependencies
+       -npm install
   
       
-    **Environment Variables:**
+**Environment Variables:**
   
-      ```bash
-      npm install
-      Create a .env file in the backend directory with the following content:
-  
-    
      Create a `.env` file in the server folder of the project with the following content:
   
      ```dotenv
